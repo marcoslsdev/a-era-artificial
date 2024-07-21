@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Livro: A Era Artificial</title>
+</head>
+
+<body>
+    <main>
+        <section>
+            <h1>A Era Artificial</h1>
+            <figure>
+                <img src="img/capa-livro.jpg" alt="Capa do livro" title="A Era Artificial">
+            </figure>
+            <h2>Um futuro sombrio a nosso caminho</h2>
+            <p>A história em que a inteligência artificial permitiu aos robôs se tornarem a espécie dominante do nosso
+                planeta. Uma luta incessante pela sobrevivência humana tem início em um cenário catastrófico dominado
+                pela
+                guerra e pelo caos.</p>
+            <a href="http://amzn.to/3bXy1g9" target="_blank" rel="noopener noreferrer">Comprar</a>
+        </section>
+        <section>
+            <h2>Uma história intensa</h2>
+            <p><span>Era Artificial - O Tempo Sombrio das Máquinas</span> deixa o leitor apreensivo com algumas
+                situações
+                que ocorrem em um cenário catastrófico tomado pela destruição. E isso o leva a refletir: veremos um dia
+                a
+                tão temida singularidade tecnológica?</p>
+        </section>
+        <section>
+            <h2>Informações sobre o autor</h2>
+            <figure>
+                <img src="img/autor.jpg" alt="Imagem do autor Diego Souza" title="Diego Souza">
+            </figure>
+            <p>Diego Souza é apaixonado por tecnologia e trabalha com Desenvolvimento Web. Também é um eterno fã de
+                ficção
+                científica e escritor nas horas vagas. Carioca da gema, ama o Rio de Janeiro, cidade onde nasceu.</p>
+        </section>
+        <section>
+            <p>O livro <strong>A Era Artificial</strong> apresenta um cenário apocalíptico no qual os robôs alcançaram
+                sua
+                independência e com isso se tornaram a espécie dominante do planeta. De que forma a humanidadepode
+                enfrentar
+                esse poderoso inimigo?</p>
+            <p><strong>Esses e mais detalhes podem ser vistos na história de ficção científica que promete fazer você
+                    refletir
+                    sobre o futuro da humanidade!</strong></p>
+            <a href="https://amzn.to/3bXy1g9" target="_blank" rel="noopener noreferrer">Comprar</a>
+        </section>
+    </main>
+</body>
+
+</html>
